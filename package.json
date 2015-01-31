@@ -1,0 +1,13 @@
+{
+  "name": "houmio-driver-philips-hue",
+  "version": "1.0.0",
+  "description": "Houm.io driver for Philips Hue",
+  "license": "MIT",
+  "homepage": "https://github.com/houmio/houmio-driver-philips-hue",
+  "dependencies": {
+    "baconjs": "^0.7.43",
+    "carrier": "^0.1.14",
+    "node-hue-api": "^1.0.0",
+    "winston": "^0.8.3"
+  }
+}

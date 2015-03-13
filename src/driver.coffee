@@ -19,7 +19,7 @@ displayResult = (result) ->
   console.log JSON.stringify(result, null, 2)
 
 displayError = (err) ->
-  console.err err
+  console.error err
 
 toLines = (socket) ->
   Bacon.fromBinder (sink) ->
